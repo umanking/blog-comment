@@ -1,3 +1,3 @@
 # Blog Comment 
 
-this repo is [umanking.github.io](https://umanking.github.io) blog for comment 😀
+this is [my blog](https://umanking.github.io) for comment repository 😀
